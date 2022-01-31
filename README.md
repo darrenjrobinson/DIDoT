@@ -98,7 +98,12 @@ The end user online experience is detailed in the series of screenshots below.
 
 # Solution Repository
 
-This repo contains the files from our Decentralized Identity of Things allergen management in food shopping solution.
+This repo contains the files from our Decentralized Identity of Things allergen management in food shopping solution. 
 
-https://github.com/IDSecurityGuy/MS-DID-Hackathon
+## Online Store (./OnlineStore)
 
+This folder contains the JavaScript Front End for our Online Store.
+
+## VC (./VC)
+
+This folder contains the VC templates and MVC app for the verifier application
