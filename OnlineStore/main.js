@@ -7,6 +7,11 @@ function clearResults() {
     document.getElementById("VCResult").innerHTML = "<div class='modal-body' id='VCResult'><p><center><i class='fa fa-spinner fa-spin' style='font-size:48px'></i></center></p></div>"
 }
 
+function notCertified() {
+    document.getElementById("VCResult").innerHTML = "<div class='modal-body' id='VCResult'><p>This product has not yet been certified. </br> Please check back again soon.</p></div>"
+}
+
+
 var counter = 0
 
 function poll() {
